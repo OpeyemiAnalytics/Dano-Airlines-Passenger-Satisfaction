@@ -47,5 +47,5 @@ outweighs dissatisfaction
 <img width="1506" height="847" alt="Dano Airline Capstone Project" src="https://github.com/user-attachments/assets/1844e0ac-aa6e-48bf-951d-53f1645ff571" />
 
 ## Author
-**OpeyemiAnalyst** | Business Intelligence & Financial Analyst
-[LinkedIn Profile](www.linkedin.com/in/opeyemi-taiwo-565985185)
+**OpeyemiTaiwo** | Business Intelligence & Financial Analyst
+[www.linkedin.com/in/opeyemi-taiwo-565985185]
